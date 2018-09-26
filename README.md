@@ -1,2 +1,2 @@
-# Isidorasth.github.io
+# Isidorastj.github.io
 Web development/design
